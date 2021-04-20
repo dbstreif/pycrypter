@@ -1,4 +1,4 @@
-**Pycrypter by Dom1337**
+**Pycrypter by Dom13377**
 
 https://github.com/Dom13377/pycrypter
 
