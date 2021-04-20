@@ -132,5 +132,5 @@ if __name__ == '__main__':
 	if system() == "Windows":
 		init(convert=True)
 	print(Fore.RED + pyfiglet.figlet_format('Pycrypter', font='slant') + Style.RESET_ALL)
-	print(Back.BLUE + "*A Python encrypter for bypassing AV*" + Style.RESET_ALL + "\n" + Back.RED + "            By Dom1337               " + Style.RESET_ALL)
+	print(Back.BLUE + "*A Python encrypter for bypassing AV*" + Style.RESET_ALL + "\n" + Back.RED + "            By Dom13377               " + Style.RESET_ALL)
 	main()
