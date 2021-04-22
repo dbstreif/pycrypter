@@ -16,6 +16,3 @@ This program takes an input file of choice and encrypts/encodes it to be undetec
 
 
 ![Screenshot from 2021-04-20 00-07-56](https://github.com/Dom13377/pycrypter/blob/main/Screenshot%20from%202021-04-20%2000-07-56.png)
-
-
-BTC: 1KupprXM1h3HYr3DiXiUDAnWKkKqf81Jtv
